@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
         // 
         echo "hola mundo";
-        echo " en el planeta Tierra"
+        echo " en el planeta Tierra";
         ?>
     </body>
 </html>
